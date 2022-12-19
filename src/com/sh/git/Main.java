@@ -23,6 +23,7 @@ public class Main {
 	
 	public void freture() {
 		System.out.println("maaaaaaaaaaaaaster!!!");
+		System.out.println("feeeeeeeeeeeeeeeeeeeeeature!");
 	}
 
 }
